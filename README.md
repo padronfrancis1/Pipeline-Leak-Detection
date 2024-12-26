@@ -41,11 +41,3 @@ To further enhance this project and refine the models, the following tasks are p
 ## **Reference**
 This project is inspired by the study **"Machine Learning-Based Acoustic Emission System for Pipeline Leak Detection"** published by MDPI Sensors.  
 You can find the original paper [here](https://www.mdpi.com/1424-8220/23/6/3226?utm_source=chatgpt.com).
-
----
-
-## **How to Use**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
