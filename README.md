@@ -9,9 +9,22 @@ This project demonstrates a machine learning-based approach to pipeline leak det
 - Created data based on pipeline scenarios such as varying leak sizes and pressure levels.
 - Features include time-domain and frequency-domain characteristics (e.g., mean frequency, variance, spectral kurtosis).
 
+
 ### **2. Exploratory Data Analysis (EDA)**
 - Visualized feature distributions and relationships to understand patterns.
 - Used scatter plots, box plots, and PCA for cluster visualization.
+### Example images
+
+#### Distribution:
+![image](https://github.com/user-attachments/assets/0d9db767-01ab-403d-abbc-32ab989a7777)
+
+#### Correlation:
+![image](https://github.com/user-attachments/assets/217bb64b-3956-4193-9b06-1c51784ae2ab)
+
+#### Plots:
+![image](https://github.com/user-attachments/assets/1e397cf7-2087-4fb0-b3e7-54d0b94e1e57)
+
+
 
 ### **3. Predictive Modeling**
 - Trained and evaluated multiple machine learning models:
@@ -25,7 +38,8 @@ This project demonstrates a machine learning-based approach to pipeline leak det
 - Achieved high performance with models like **Random Forest** and **XGBoost**.
 - Demonstrated the effectiveness of using engineered features for leak detection.
 
----
+#### Example results
+![image](https://github.com/user-attachments/assets/c7cb1ddd-e487-4cea-aa2d-c7ece958a5ed)
 
 ## **Future Work**
 To further enhance this project and refine the models, the following tasks are proposed:
